@@ -1,0 +1,54 @@
+Fossil fuel product groups			
+Country	Name	ID	kg C/ M.EUR
+EU	Coal and lignite; peat (10)	18	21015504
+EU	Crude petroleum and services related to crude oil extraction, excluding surveying	19	4295529
+EU	Natural gas and services related to natural gas extraction, excluding surveying	20	4309356
+EU	Other petroleum and gaseous materials	21	1598955
+EU	Coke oven products	51	6421576
+EU	Motor spirit (gasoline)	52	3303646
+EU	Kerosene, including kerosene type jet fuel	53	2782992
+EU	Gas oils	54	2975232
+EU	Fuel oils n.e.c.	55	2260691
+EU	Petroleum gases and other gaseous hydrocarbons, except natural gas	56	2759955
+EU	Other petroleum products	57	1429107
+EU	Manufactured gas and distribution services of gaseous fuels through mains	92	1974093
+EU	Retail trade services of motor fuel	97	24124
+HI	Coal and lignite; peat (10)	147	26877682
+HI	Crude petroleum and services related to crude oil extraction, excluding surveying	148	4315566
+HI	Natural gas and services related to natural gas extraction, excluding surveying	149	4002635
+HI	Other petroleum and gaseous materials	150	2355639
+HI	Coke oven products	180	9589952
+HI	Motor spirit (gasoline)	181	3061968
+HI	Kerosene, including kerosene type jet fuel	182	2803064
+HI	Gas oils	183	2520851
+HI	Fuel oils n.e.c.	184	3323707
+HI	Petroleum gases and other gaseous hydrocarbons, except natural gas	185	2680046
+HI	Other petroleum products	186	2367197
+HI	Manufactured gas and distribution services of gaseous fuels through mains	221	2158028
+HI	Retail trade services of motor fuel	226	4724
+BX	Coal and lignite; peat (10)	276	22259512
+BX	Crude petroleum and services related to crude oil extraction, excluding surveying	277	6342256
+BX	Natural gas and services related to natural gas extraction, excluding surveying	278	23317201
+BX	Other petroleum and gaseous materials	279	26136272
+BX	Coke oven products	309	5195920
+BX	Motor spirit (gasoline)	310	3486961
+BX	Kerosene, including kerosene type jet fuel	311	2780656
+BX	Gas oils	312	3547666
+BX	Fuel oils n.e.c.	313	2199381
+BX	Petroleum gases and other gaseous hydrocarbons, except natural gas	314	3679043
+BX	Other petroleum products	315	1165217
+BX	Manufactured gas and distribution services of gaseous fuels through mains	350	3305499
+BX	Retail trade services of motor fuel	355	104916
+WW	Coal and lignite; peat (10)	405	6402789
+WW	Crude petroleum and services related to crude oil extraction, excluding surveying	406	5031812
+WW	Natural gas and services related to natural gas extraction, excluding surveying	407	10696912
+WW	Other petroleum and gaseous materials	408	839219
+WW	Coke oven products	438	5195920
+WW	Motor spirit (gasoline)	439	3570364
+WW	Kerosene, including kerosene type jet fuel	440	370637
+WW	Gas oils	441	3721765
+WW	Fuel oils n.e.c.	442	162803
+WW	Petroleum gases and other gaseous hydrocarbons, except natural gas	443	2950879
+WW	Other petroleum products	444	2195027
+WW	Manufactured gas and distribution services of gaseous fuels through mains	479	3305499
+WW	Retail trade services of motor fuel	484	5589

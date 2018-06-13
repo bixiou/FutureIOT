@@ -1,0 +1,60 @@
+Properties initial
+GDP income approach:
+   1.9305e+07
+   3.6602e+07
+   3.7168e+07
+   1.6162e+07
+GDP expenditure approach:
+   1.9305e+07
+   3.6602e+07
+   3.7168e+07
+   1.6162e+07
+GDP production approach:
+   1.9305e+07
+   3.6602e+07
+   3.7168e+07
+   1.6162e+07
+Intermediate international trade:
+   0.0000e+00   4.3261e+05   5.1930e+05   2.0970e+05
+   4.2863e+05   0.0000e+00   1.0473e+06   2.7023e+05
+   1.6358e+05   3.1050e+05   0.0000e+00   1.4732e+05
+   3.8501e+05   7.0577e+05   9.0576e+05   0.0000e+00
+Direct international trade:
+   0.0000e+00   6.1116e+05   2.8109e+05   4.4170e+05
+   5.7248e+05   0.0000e+00   5.0879e+05   1.2486e+06
+   5.9390e+05   1.3264e+06   0.0000e+00   1.0859e+06
+   3.5195e+05   6.8964e+05   3.6529e+05   0.0000e+00
+Check balance:
+   Balance OK
+
+
+Properties new
+GDP income approach:
+   1.9315e+07
+   3.6611e+07
+   3.7205e+07
+   1.6191e+07
+GDP expenditure approach:
+   1.9315e+07
+   3.6611e+07
+   3.7205e+07
+   1.6191e+07
+GDP production approach:
+   1.9305e+07
+   3.6602e+07
+   3.7168e+07
+   1.6162e+07
+Intermediate international trade:
+   0.0000e+00   4.3176e+05   5.2051e+05   2.0904e+05
+   4.2519e+05   0.0000e+00   1.0498e+06   2.6797e+05
+   1.6106e+05   3.0776e+05   0.0000e+00   1.4661e+05
+   3.7983e+05   6.8801e+05   8.8851e+05   0.0000e+00
+Direct international trade:
+   0.0000e+00   6.1108e+05   2.8085e+05   4.3729e+05
+   5.7340e+05   0.0000e+00   5.0891e+05   1.2383e+06
+   5.9543e+05   1.3290e+06   0.0000e+00   1.0778e+06
+   3.5561e+05   6.9605e+05   3.6903e+05   0.0000e+00
+Check balance:
+   Balance OK
+
+

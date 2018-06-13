@@ -1,0 +1,97 @@
+Properties initial
+GDP income approach:
+   8.4059e+06
+   1.8066e+07
+   3.8454e+06
+   3.6498e+06
+GDP expenditure approach:
+   8.4059e+06
+   1.8066e+07
+   3.8454e+06
+   3.6498e+06
+GDP production approach:
+   8.4059e+06
+   1.8066e+07
+   3.8454e+06
+   3.6498e+06
+Intermediate international trade:
+   0.0000e+00   2.9004e+05   1.0920e+05   1.7021e+05
+   3.8475e+05   0.0000e+00   2.6659e+05   2.5628e+05
+   1.2088e+05   2.1517e+05   0.0000e+00   1.1500e+05
+   1.9693e+05   3.5099e+05   1.2391e+05   0.0000e+00
+Direct international trade:
+   0.0000e+00   2.4083e+05   8.3623e+04   1.4517e+05
+   1.9235e+05   0.0000e+00   1.2673e+05   2.0148e+05
+   5.8323e+04   1.6442e+05   0.0000e+00   8.7047e+04
+   8.5846e+04   1.6674e+05   5.0770e+04   0.0000e+00
+Check balance:
+   Balance OK
+
+
+Properties after general efficiency change
+GDP income approach:
+   1.0550e+07
+   2.1901e+07
+   5.2073e+06
+   4.9627e+06
+GDP expenditure approach:
+   1.0550e+07
+   2.1901e+07
+   5.2073e+06
+   4.9627e+06
+GDP production approach:
+   1.0550e+07
+   2.1901e+07
+   5.2073e+06
+   4.9627e+06
+Intermediate international trade:
+   0.0000e+00   2.6110e+05   7.4256e+04   6.5790e+04
+   2.3798e+05   0.0000e+00   1.5340e+05   8.6605e+04
+   8.6449e+04   1.8014e+05   0.0000e+00   4.4439e+04
+   2.0376e+05   4.0679e+05   1.2514e+05   0.0000e+00
+Direct international trade:
+   0.0000e+00   3.4735e+05   1.1745e+05   2.1106e+05
+   3.2948e+05   0.0000e+00   2.3329e+05   6.4614e+05
+   9.6972e+04   2.3939e+05   0.0000e+00   1.5691e+05
+   1.2236e+05   2.5213e+05   1.0076e+05   0.0000e+00
+Check balance:
+   Balance OK
+
+
+Remaining GDP factors to be applied
+   1.8303
+   1.6730
+   7.1306
+   3.2876
+
+
+Properties after GDP change
+GDP income approach:
+   1.9311e+07
+   3.6601e+07
+   3.7153e+07
+   1.6328e+07
+GDP expenditure approach:
+   1.9311e+07
+   3.6602e+07
+   3.7153e+07
+   1.6328e+07
+GDP production approach:
+   1.9311e+07
+   3.6602e+07
+   3.7153e+07
+   1.6328e+07
+Intermediate international trade:
+   0.0000e+00   4.3296e+05   5.1856e+05   2.1000e+05
+   4.2733e+05   0.0000e+00   1.0464e+06   2.7043e+05
+   1.6305e+05   3.1137e+05   0.0000e+00   1.4744e+05
+   3.8827e+05   7.1443e+05   9.0883e+05   0.0000e+00
+Direct international trade:
+   0.0000e+00   6.1134e+05   2.8087e+05   4.4519e+05
+   5.7314e+05   0.0000e+00   5.0791e+05   1.2616e+06
+   5.9436e+05   1.3258e+06   0.0000e+00   1.0901e+06
+   3.5272e+05   6.9083e+05   3.6950e+05   0.0000e+00
+Check balance:
+   Balance OK
+
+
