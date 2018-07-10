@@ -1,3 +1,11 @@
+%   1. U.txt - intermediate use table
+%   2. V.txt - make table
+%   3. W.txt - value added table
+%   4. Y.txt - final use table
+%   5. M.txt - direct GHG emissions from industry
+%   6. FM.txt - direct emissions from households
+%   7  R.txt - fossil carbon resource extraction
+
 clear all;
 more off;
 
